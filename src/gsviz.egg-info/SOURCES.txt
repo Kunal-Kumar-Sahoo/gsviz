@@ -1,0 +1,8 @@
+LICENSE.txt
+README.md
+pyproject.toml
+setup.cfg
+src/gsviz.egg-info/PKG-INFO
+src/gsviz.egg-info/SOURCES.txt
+src/gsviz.egg-info/dependency_links.txt
+src/gsviz.egg-info/top_level.txt

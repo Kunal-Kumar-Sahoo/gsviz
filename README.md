@@ -34,7 +34,7 @@ visualizer.visualize_search(graph, pos, dfs_order, 'DFS Visualization')
 
 ## License
 
-This library is licensed under the MIT License. See the LICENSE file for detail.
+This library is licensed under the MIT License. See the [LICENSE](LICENSE.txt) file for detail.
 
 
 ## Author

@@ -1,0 +1,14 @@
+Metadata-Version: 2.1
+Name: gsviz
+Version: 1.0.0
+Summary: A Python3 library for creating, searching, and visualizing random graphs using NetworkX and Matplotlib.
+Home-page: https://github.com/Kunal-Kumar-Sahoo/gsviz
+Author: Kunal Kumar Sahoo
+Author-email: kunal.sahoo2003@gmail.com
+Project-URL: Bug Tracker, https://github.com/Kunal-Kumar-Sahoo/gsviz/issues
+Project-URL: repository, https://github.com/Kunal-Kumar-Sahoo/gsviz
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+License-File: LICENSE.txt
